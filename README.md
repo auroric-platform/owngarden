@@ -1,12 +1,18 @@
-<div align="center">
-    <img src="https://media.forgecdn.net/attachments/125/227/logo.png" title="OwnGarden" alt="OwnGarden"/>
-</div>
+<!-- Variables (this block will not be visible in the readme -->
+[banner]: https://i.imgur.com/iimaadc.png
+[link]: https://github.com/auroric-platform/owngarden/
+<!-- End of variables block -->
 
-## How does it work ?
+[![Logo][banner]][link]
+
+# OwnGarden Reloaded
+OwnGarden reloaded builds on the foundation of the original OwnGarden, allowing you to grow a custom tree from schematic that replaces the default trees when you plant and grow it, or bonemeal it.
+
 Well, it is simple : first you have to plant a sapling (any type you want). Then let it grows or use some bonemeal. When the sapling is ready to become a tree, the plugin replaces the horrible default Minecraft tree by a nice custom schematic. 
 The custom schematic is randomly picked from a list (where you can add, remove or edit available schematics per sapling type).
 
-**NOTE :** This plugin needs to have WorldEdit installed on your server (it is used to load and past legacy, sponge schematics and NBT structure files).
+## 🔗 Requirement
+OwnGarden Reloaded requires WorldEdit or FAWE installed on your server.
 
 ## Configuration
 Your server must be stopped before editing **config.yml**.
@@ -34,8 +40,10 @@ Your server must be stopped before editing **config.yml**.
 
 If you want to disable the plugin for a tree type, just put the blank list `[]` instead of a list of files.
 
-## Commands and permissions
-Just one command : **/owngarden** (or **/own-garden**) which displays some information about the plugin, the loaded schematics, etc... This command requires the permission **owngarden.command**.
+
+## ⚙️ Commands
+Use `/owngarden` or `/owngarden` to display plugin information and show loaded schematics. User who wish to excute this command requires `owngarden.command` for permission.
+
 
 ## Bugs, improvements and feature requests
 Got a bug ? Have a feature request ? Then post a ticket [here](https://github.com/Skyost/OwnGarden/issues) !
