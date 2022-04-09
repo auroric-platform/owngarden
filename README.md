@@ -52,8 +52,3 @@ Got a bug ? Have a feature request ? Then post a ticket [here](https://github.co
 OwnGarden (concept and logo) comes from an idea of [Noxon](https://www.bukkit.fr/topic/14863-owngarden-faites-pousser-vos-propres-arbres/). Big thanks to him.
 
 A lot of thanks to [Eremilion](https://www.planetminecraft.com/project/realistictreesandmanyotherthingsworkinprogress/) and [Murokmakto](https://www.planetminecraft.com/project/custom-tree-pack-vol2-tropical-forest/) for their trees schematics.
-
-## Donations
-Development costs time and time is the money of life. Please feel free to donate.
-
-[![PayPal Button](https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XLEBVBMQNTXMY)
